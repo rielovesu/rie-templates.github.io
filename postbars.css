@@ -13,11 +13,11 @@
 .barscontent {width: 460px; height: 266px; padding: 10px; font-family: 'Open Sans Condensed', sans-serif; font-size: 13px; color: #0f252f; text-align: center; position: relative; overflow-y: scroll; overscroll-behavior-y: contain;}
 .barscontent b {font-family: 'Open Sans Condensed', sans-serif; font-size: 13px; font-weight:bold; color: var(--bold) !important;}
 .barscontent a:link, .barscontent a:active, .barscontent a:visited, .barscontent a:hover {font-family: 'Open Sans Condensed', sans-serif; font-size: 13px; color: #0f252f; text-align: center;}
-.barscontent h1, .barscontent h1 a:link, .barscontent h1 a:active, .barscontent h1 a:hover {font-family: 'Open Sans Condensed', sans-serif; font-size: 18px; color: var(--box1); text-align: center; text-decoration: underline;}
+.barscontent h8, .barscontent h8 a:link, .barscontent h8 a:active, .barscontent h8 a:hover {font-family: 'Open Sans Condensed', sans-serif; font-size: 18px; color: var(--box1); text-align: center; text-decoration: underline;}
 .barscontent::-webkit-scrollbar {display: none; }
 .barscontent a:before {content: "| ";}
 .barscontent a:after {content: " |";}
-.barscontent h1 a:before, .barscontent h1 a:after {content: none;}
+.barscontent h8 a:before, .barscontent h8 a:after {content: none;}
 
 .barslinelow {border-bottom: 3px solid var(--bar1); border-left: 3px solid var(--bar1); height: 180px; width: 396px; pointer-events: none;  position: relative; margin-left: -112px; margin-top: -165px; }
 
